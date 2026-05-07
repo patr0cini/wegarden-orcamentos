@@ -484,7 +484,9 @@
           "texto": "Enviado para carina.castro@grupoccr.pt e ricardino.gomes@tecnorem.pt",
           "at": "2026-05-07T08:26:03.046Z"
         }
-      ]
+      ],
+      "emailEnvio": "carina.castro@grupoccr.pt",
+      "dataEnvio": ""
     },
     {
       "id": 37,
