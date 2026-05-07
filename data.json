@@ -772,7 +772,13 @@
       "visita": "",
       "adjudicado": "",
       "dataArranque": "",
-      "notas": "Enviado para Comercial@mlmoita.pt"
+      "notas": "",
+      "notasHist": [
+        {
+          "texto": "Enviado para Comercial@mlmoita.pt",
+          "at": "2026-05-07T08:32:49.903Z"
+        }
+      ]
     },
     {
       "id": 60,
