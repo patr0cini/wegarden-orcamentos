@@ -807,6 +807,23 @@
       "dataEnvio": "2026-05-06",
       "grauOverride": "",
       "notas": ""
+    },
+    {
+      "id": 61,
+      "addedAt": "2026-05-07T08:30:33.318Z",
+      "nome": "ocWG26_080 EN8 - KM33+720 (LE); EN9 - KM27+800 A KM48+200 (LD) - ESTABILIZAÇÃO DE TALUDES DE ATERRO",
+      "valor": 8525.34,
+      "mes": "Maio",
+      "requerente": "Pragosa",
+      "responsavel": "MP",
+      "concurso": "",
+      "visita": "",
+      "adjudicado": "",
+      "dataArranque": "",
+      "emailEnvio": "compras@pragosa.pt",
+      "dataEnvio": "2026-05-06",
+      "grauOverride": "",
+      "notas": ""
     }
   ]
 }
