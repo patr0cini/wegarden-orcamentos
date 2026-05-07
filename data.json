@@ -606,7 +606,9 @@
           "texto": "Enviado para joao.rebelo@aba.com.pt",
           "at": "2026-05-07T20:20:19.757Z"
         }
-      ]
+      ],
+      "emailEnvio": "joao.rebelo@aba.com.pt",
+      "dataEnvio": ""
     },
     {
       "id": 43,
