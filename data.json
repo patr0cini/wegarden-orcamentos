@@ -695,7 +695,13 @@
       "visita": "",
       "adjudicado": "",
       "dataArranque": "",
-      "notas": "Enviado para orcamentos1@norcep.pt"
+      "notas": "",
+      "notasHist": [
+        {
+          "texto": "Enviado para orcamentos1@norcep.pt",
+          "at": "2026-05-07T20:20:51.017Z"
+        }
+      ]
     },
     {
       "id": 48,
