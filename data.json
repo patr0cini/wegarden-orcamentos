@@ -698,7 +698,13 @@
       "visita": "",
       "adjudicado": "",
       "dataArranque": "",
-      "notas": "Enviado para jc@detailsmind.com"
+      "notas": "",
+      "notasHist": [
+        {
+          "texto": "Enviado para jc@detailsmind.com",
+          "at": "2026-05-07T09:03:11.309Z"
+        }
+      ]
     },
     {
       "id": 51,
