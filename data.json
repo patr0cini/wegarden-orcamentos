@@ -778,7 +778,9 @@
           "texto": "Enviado para Comercial@mlmoita.pt",
           "at": "2026-05-07T08:32:49.903Z"
         }
-      ]
+      ],
+      "emailEnvio": "Comercial@mlmoita.pt",
+      "dataEnvio": ""
     },
     {
       "id": 60,
