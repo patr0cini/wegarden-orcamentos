@@ -1,14 +1,11 @@
-const http = require('http');
-const fs   = require('fs');
-const path = require('path');
+const http    = require('http');
+const https   = require('https');
 
-const DATA_FILE = path.join(__dirname, 'data.json');
-const PORT      = process.env.PORT || 3000;
-
-// Initialise data file if missing
-if (!fs.existsSync(DATA_FILE)) {
-  fs.writeFileSync(DATA_FILE, JSON.stringify({ data: [] }));
-}
+const PORT        = process.env.PORT || 3000;
+const GH_TOKEN    = process.env.GH_TOKEN;
+const GH_OWNER    = 'patr0cini';
+const GH_REPO     = 'wegarden-orcamentos';
+const GH_FILE     = 'data.json';
 
 const CORS = {
   'Access-Control-Allow-Origin':  '*',
@@ -16,56 +13,101 @@ const CORS = {
   'Access-Control-Allow-Headers': 'Content-Type',
 };
 
-http.createServer((req, res) => {
-  // CORS preflight
+function ghRequest(method, path, body) {
+  return new Promise((resolve, reject) => {
+    const payload = body ? JSON.stringify(body) : null;
+    const options = {
+      hostname: 'api.github.com',
+      path,
+      method,
+      headers: {
+        'Authorization': `Bearer ${GH_TOKEN}`,
+        'Accept':        'application/vnd.github+json',
+        'User-Agent':    'wegarden-server',
+        'X-GitHub-Api-Version': '2022-11-28',
+        ...(payload ? { 'Content-Type': 'application/json', 'Content-Length': Buffer.byteLength(payload) } : {}),
+      },
+    };
+    const req = https.request(options, res => {
+      let data = '';
+      res.on('data', c => data += c);
+      res.on('end', () => {
+        try { resolve({ status: res.statusCode, body: JSON.parse(data) }); }
+        catch { resolve({ status: res.statusCode, body: data }); }
+      });
+    });
+    req.on('error', reject);
+    if (payload) req.write(payload);
+    req.end();
+  });
+}
+
+async function readData() {
+  const r = await ghRequest('GET', `/repos/${GH_OWNER}/${GH_REPO}/contents/${GH_FILE}`);
+  if (r.status !== 200) throw new Error('GitHub read failed: ' + r.status);
+  const content = Buffer.from(r.body.content, 'base64').toString('utf8');
+  return { data: JSON.parse(content), sha: r.body.sha };
+}
+
+async function writeData(data, sha) {
+  const content = Buffer.from(JSON.stringify(data, null, 2)).toString('base64');
+  const r = await ghRequest('PUT', `/repos/${GH_OWNER}/${GH_REPO}/contents/${GH_FILE}`, {
+    message: 'update: orcamentos ' + new Date().toISOString(),
+    content,
+    sha,
+  });
+  if (r.status !== 200 && r.status !== 201) throw new Error('GitHub write failed: ' + r.status + ' ' + JSON.stringify(r.body));
+  return r.body;
+}
+
+http.createServer(async (req, res) => {
+
   if (req.method === 'OPTIONS') {
-    res.writeHead(204, CORS);
-    res.end();
+    res.writeHead(204, CORS); res.end(); return;
+  }
+
+  if (req.method === 'GET' && req.url === '/health') {
+    res.writeHead(200, { ...CORS, 'Content-Type': 'application/json' });
+    res.end(JSON.stringify({ status: 'ok', gh_token: !!GH_TOKEN }));
     return;
   }
 
-  // GET /data — return current data
   if (req.method === 'GET' && req.url === '/data') {
     try {
-      const raw = fs.readFileSync(DATA_FILE, 'utf8');
+      const { data } = await readData();
       res.writeHead(200, { ...CORS, 'Content-Type': 'application/json' });
-      res.end(raw);
+      res.end(JSON.stringify(data));
     } catch (e) {
-      res.writeHead(500, CORS);
-      res.end(JSON.stringify({ error: 'Erro ao ler dados' }));
+      console.error('GET /data error:', e.message);
+      res.writeHead(500, { ...CORS, 'Content-Type': 'application/json' });
+      res.end(JSON.stringify({ error: e.message }));
     }
     return;
   }
 
-  // PUT /data — save new data
   if (req.method === 'PUT' && req.url === '/data') {
     let body = '';
     req.on('data', chunk => body += chunk);
-    req.on('end', () => {
+    req.on('end', async () => {
       try {
-        // Validate it's valid JSON before saving
-        JSON.parse(body);
-        fs.writeFileSync(DATA_FILE, body);
+        const incoming = JSON.parse(body);
+        const { sha } = await readData();
+        await writeData(incoming, sha);
         res.writeHead(200, { ...CORS, 'Content-Type': 'application/json' });
         res.end(JSON.stringify({ ok: true }));
       } catch (e) {
-        res.writeHead(400, CORS);
-        res.end(JSON.stringify({ error: 'JSON inválido' }));
+        console.error('PUT /data error:', e.message);
+        res.writeHead(500, { ...CORS, 'Content-Type': 'application/json' });
+        res.end(JSON.stringify({ error: e.message }));
       }
     });
     return;
   }
 
-  // Health check
-  if (req.method === 'GET' && req.url === '/health') {
-    res.writeHead(200, CORS);
-    res.end(JSON.stringify({ status: 'ok' }));
-    return;
-  }
-
-  res.writeHead(404, CORS);
+  res.writeHead(404, { ...CORS, 'Content-Type': 'application/json' });
   res.end(JSON.stringify({ error: 'Not found' }));
 
 }).listen(PORT, () => {
-  console.log(`We Garden API running on port ${PORT}`);
+  console.log('We Garden API on port ' + PORT);
+  console.log('GitHub token: ' + (GH_TOKEN ? 'configured' : 'MISSING'));
 });
