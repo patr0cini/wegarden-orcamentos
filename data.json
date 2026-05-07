@@ -704,7 +704,9 @@
           "texto": "Enviado para jc@detailsmind.com",
           "at": "2026-05-07T09:03:11.309Z"
         }
-      ]
+      ],
+      "emailEnvio": "jc@detailsmind.com",
+      "dataEnvio": ""
     },
     {
       "id": 51,
