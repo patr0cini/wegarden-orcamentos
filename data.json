@@ -655,7 +655,13 @@
       "visita": "",
       "adjudicado": "",
       "dataArranque": "",
-      "notas": "Enviado para nelson.godinho@grupoaoc.com e luis.carvalho@grow-eng.com"
+      "notas": "",
+      "notasHist": [
+        {
+          "texto": "Enviado para nelson.godinho@grupoaoc.com e luis.carvalho@grow-eng.com",
+          "at": "2026-05-07T08:33:33.007Z"
+        }
+      ]
     },
     {
       "id": 50,
