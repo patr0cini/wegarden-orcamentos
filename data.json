@@ -478,7 +478,13 @@
       "visita": "",
       "adjudicado": "",
       "dataArranque": "",
-      "notas": "Enviado para carina.castro@grupoccr.pt e ricardino.gomes@tecnorem.pt"
+      "notas": "",
+      "notasHist": [
+        {
+          "texto": "Enviado para carina.castro@grupoccr.pt e ricardino.gomes@tecnorem.pt",
+          "at": "2026-05-07T08:26:03.046Z"
+        }
+      ]
     },
     {
       "id": 37,
