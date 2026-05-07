@@ -19,12 +19,15 @@
       "valor": 122681.54,
       "mes": "Janeiro",
       "requerente": "Marques",
-      "responsavel": "",
+      "responsavel": "BP",
       "concurso": "Não",
       "visita": "",
       "adjudicado": "",
       "dataArranque": "",
-      "notas": ""
+      "notas": "",
+      "emailEnvio": "",
+      "dataEnvio": "",
+      "grauOverride": ""
     },
     {
       "id": 3,
