@@ -648,7 +648,9 @@
           "texto": "Enviado para fb@mapgroup.pt",
           "at": "2026-05-07T08:39:59.055Z"
         }
-      ]
+      ],
+      "emailEnvio": "fb@mapgroup.pt",
+      "dataEnvio": ""
     },
     {
       "id": 49,
