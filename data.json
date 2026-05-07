@@ -696,7 +696,7 @@
       "mes": "Maio",
       "requerente": "CCe e FCM",
       "responsavel": "MP",
-      "concurso": "",
+      "concurso": "Sim",
       "visita": "",
       "adjudicado": "",
       "dataArranque": "",
@@ -706,7 +706,10 @@
           "texto": "Enviado para vitoria.pestanudo@constructionconcept.eu e margarida.sacadura@fcm.pt",
           "at": "2026-05-07T08:33:48.649Z"
         }
-      ]
+      ],
+      "emailEnvio": "",
+      "dataEnvio": "",
+      "grauOverride": ""
     },
     {
       "id": 53,
