@@ -790,7 +790,13 @@
       "visita": "Sim",
       "adjudicado": "",
       "dataArranque": "",
-      "notas": "Enviado para antonio.leite@ruce.pt"
+      "notas": "",
+      "notasHist": [
+        {
+          "texto": "Enviado para antonio.leite@ruce.pt",
+          "at": "2026-05-07T20:24:58.955Z"
+        }
+      ]
     },
     {
       "id": 52,
