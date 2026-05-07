@@ -576,11 +576,14 @@
       "mes": "Maio",
       "requerente": "Alves Ribeiro",
       "responsavel": "MP",
-      "concurso": "",
+      "concurso": "Sim",
       "visita": "",
       "adjudicado": "",
       "dataArranque": "Julho 2026",
-      "notas": ""
+      "notas": "",
+      "emailEnvio": "",
+      "dataEnvio": "",
+      "grauOverride": ""
     },
     {
       "id": 44,
