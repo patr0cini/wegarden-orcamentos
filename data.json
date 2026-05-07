@@ -600,7 +600,13 @@
       "visita": "",
       "adjudicado": "",
       "dataArranque": "",
-      "notas": "Enviado para joao.rebelo@aba.com.pt"
+      "notas": "",
+      "notasHist": [
+        {
+          "texto": "Enviado para joao.rebelo@aba.com.pt",
+          "at": "2026-05-07T20:20:19.757Z"
+        }
+      ]
     },
     {
       "id": 43,
