@@ -818,9 +818,9 @@
     {
       "id": 56,
       "nome": "ocWG26_069 EB Dionísio dos Santos Matias (Paço de Arcos)",
-      "valor": 53489.84,
+      "valor": 128630.84,
       "mes": "Maio",
-      "requerente": "FCM",
+      "requerente": "FCM / NOW XXI",
       "responsavel": "MP",
       "concurso": "Sim",
       "visita": "",
@@ -832,7 +832,10 @@
           "texto": "Enviado para margarida.sacadura@fcm.pt",
           "at": "2026-05-07T12:20:03.130Z"
         }
-      ]
+      ],
+      "emailEnvio": "vitor.afonso@nowxxi.pt margarida.sacadura@fcm.p",
+      "dataEnvio": "",
+      "grauOverride": ""
     },
     {
       "id": 57,
