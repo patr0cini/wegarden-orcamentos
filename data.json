@@ -753,6 +753,23 @@
       "adjudicado": "",
       "dataArranque": "",
       "notas": "Enviado para Comercial@mlmoita.pt"
+    },
+    {
+      "id": 59,
+      "addedAt": "2026-05-07T08:10:41.541Z",
+      "nome": "teste",
+      "valor": 1,
+      "mes": "Março",
+      "requerente": "teste",
+      "responsavel": "JP",
+      "concurso": "Sim",
+      "visita": "Não",
+      "adjudicado": "",
+      "dataArranque": "",
+      "emailEnvio": "",
+      "dataEnvio": "",
+      "grauOverride": "",
+      "notas": ""
     }
   ]
 }
