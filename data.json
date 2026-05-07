@@ -115,7 +115,13 @@
       "visita": "",
       "adjudicado": "",
       "dataArranque": "",
-      "notas": "Alves Ribeiro não avançou"
+      "notas": "",
+      "notasHist": [
+        {
+          "texto": "Alves Ribeiro não avançou",
+          "at": "2026-05-07T08:25:29.137Z"
+        }
+      ]
     },
     {
       "id": 10,
