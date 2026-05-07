@@ -678,11 +678,14 @@
       "mes": "Abril",
       "requerente": "",
       "responsavel": "",
-      "concurso": "",
+      "concurso": "Sim",
       "visita": "",
       "adjudicado": "",
       "dataArranque": "",
-      "notas": ""
+      "notas": "",
+      "emailEnvio": "",
+      "dataEnvio": "",
+      "grauOverride": ""
     },
     {
       "id": 47,
