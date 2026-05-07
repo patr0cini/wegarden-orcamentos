@@ -105,7 +105,13 @@
       "visita": "Sim",
       "adjudicado": "",
       "dataArranque": "",
-      "notas": "Adjudicado metade"
+      "notas": "",
+      "notasHist": [
+        {
+          "texto": "Adjudicado metade",
+          "at": "2026-05-07T09:01:25.012Z"
+        }
+      ]
     },
     {
       "id": 9,
