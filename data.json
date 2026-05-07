@@ -673,7 +673,14 @@
       ],
       "emailEnvio": "fb@mapgroup.pt",
       "dataEnvio": "2026-05-05",
-      "grauOverride": ""
+      "grauOverride": "",
+      "lembretes": [
+        {
+          "data": "2026-05-08",
+          "texto": "Ligar",
+          "done": false
+        }
+      ]
     },
     {
       "id": 49,
