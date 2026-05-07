@@ -644,7 +644,7 @@
       "mes": "Maio",
       "requerente": "MAP",
       "responsavel": "MP",
-      "concurso": "",
+      "concurso": "Não",
       "visita": "",
       "adjudicado": "",
       "dataArranque": "Agosto 2026",
@@ -656,7 +656,8 @@
         }
       ],
       "emailEnvio": "fb@mapgroup.pt",
-      "dataEnvio": ""
+      "dataEnvio": "",
+      "grauOverride": ""
     },
     {
       "id": 49,
