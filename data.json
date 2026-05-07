@@ -790,6 +790,23 @@
       "dataEnvio": "",
       "grauOverride": "",
       "notas": ""
+    },
+    {
+      "id": 60,
+      "addedAt": "2026-05-07T08:29:39.921Z",
+      "nome": "ocWG26_079 CM SETÚBAL - RUA DO PARAÍSO DA JARDIA",
+      "valor": 57011.5,
+      "mes": "Maio",
+      "requerente": "Cordivias",
+      "responsavel": "MP",
+      "concurso": "Sim",
+      "visita": "",
+      "adjudicado": "",
+      "dataArranque": "",
+      "emailEnvio": "comercial2@cordivias.com",
+      "dataEnvio": "2026-05-06",
+      "grauOverride": "",
+      "notas": ""
     }
   ]
 }
