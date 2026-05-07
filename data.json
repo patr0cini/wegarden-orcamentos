@@ -138,7 +138,7 @@
       "valor": 524187.33,
       "mes": "Janeiro",
       "requerente": "Estradas do Douro",
-      "responsavel": "",
+      "responsavel": "BP",
       "concurso": "Não",
       "visita": "",
       "adjudicado": "",
@@ -149,7 +149,10 @@
           "texto": "Ligar ao Miguel Guimarães no final de Março, liguei a 26 de Março. Liguei a 29 de Abril. Projeto vai ser refeito e haverá nova consulta",
           "at": "2026-05-07T08:25:42.704Z"
         }
-      ]
+      ],
+      "emailEnvio": "",
+      "dataEnvio": "",
+      "grauOverride": ""
     },
     {
       "id": 11,
