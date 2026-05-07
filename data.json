@@ -188,7 +188,13 @@
       "visita": "",
       "adjudicado": "",
       "dataArranque": "",
-      "notas": "Liguei à Sara no 31 de Março. Estamos bem posicionados. Estamos 80.000€ acima (baixámos a proposta neste sentido)"
+      "notas": "",
+      "notasHist": [
+        {
+          "texto": "Liguei à Sara no 31 de Março. Estamos bem posicionados. Estamos 80.000€ acima (baixámos a proposta neste sentido)",
+          "at": "2026-05-07T09:16:58.284Z"
+        }
+      ]
     },
     {
       "id": 14,
