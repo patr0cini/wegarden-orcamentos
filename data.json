@@ -826,7 +826,13 @@
       "visita": "",
       "adjudicado": "",
       "dataArranque": "",
-      "notas": "Enviado para margarida.sacadura@fcm.pt"
+      "notas": "",
+      "notasHist": [
+        {
+          "texto": "Enviado para margarida.sacadura@fcm.pt",
+          "at": "2026-05-07T12:20:03.130Z"
+        }
+      ]
     },
     {
       "id": 57,
