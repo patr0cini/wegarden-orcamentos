@@ -785,8 +785,8 @@
       "valor": 82946.32,
       "mes": "Abril",
       "requerente": "Ruce",
-      "responsavel": "",
-      "concurso": "",
+      "responsavel": "BP",
+      "concurso": "Não",
       "visita": "Sim",
       "adjudicado": "",
       "dataArranque": "",
@@ -796,7 +796,10 @@
           "texto": "Enviado para antonio.leite@ruce.pt",
           "at": "2026-05-07T20:24:58.955Z"
         }
-      ]
+      ],
+      "emailEnvio": "",
+      "dataEnvio": "",
+      "grauOverride": ""
     },
     {
       "id": 52,
