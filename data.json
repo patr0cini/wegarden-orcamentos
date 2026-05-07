@@ -372,9 +372,12 @@
       "responsavel": "JP",
       "concurso": "Não",
       "visita": "Sim",
-      "adjudicado": "",
+      "adjudicado": "Não",
       "dataArranque": "",
-      "notas": ""
+      "notas": "",
+      "emailEnvio": "",
+      "dataEnvio": "",
+      "grauOverride": ""
     },
     {
       "id": 29,
