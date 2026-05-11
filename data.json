@@ -412,6 +412,13 @@
           "texto": "liguei a 11/05 . ligar a Hugo bastos",
           "at": "2026-05-11T15:09:59.455Z"
         }
+      ],
+      "lembretes": [
+        {
+          "data": "2026-05-12",
+          "texto": "Ligar a Hugo Bastos",
+          "done": false
+        }
       ]
     },
     {
