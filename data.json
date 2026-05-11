@@ -78,11 +78,14 @@
       "mes": "Janeiro",
       "requerente": "Planirest",
       "responsavel": "",
-      "concurso": "",
+      "concurso": "Sim",
       "visita": "",
       "adjudicado": "",
       "dataArranque": "",
-      "notas": ""
+      "notas": "liguei a 11/05 mas ainda não sabem nada",
+      "emailEnvio": "",
+      "dataEnvio": "",
+      "grauOverride": ""
     },
     {
       "id": 7,
