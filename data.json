@@ -49,11 +49,14 @@
       "mes": "Janeiro",
       "requerente": "KTL / MAP Group / GRUPO FAS",
       "responsavel": "",
-      "concurso": "Sim",
+      "concurso": "Não",
       "visita": "",
       "adjudicado": "",
       "dataArranque": "",
-      "notas": ""
+      "notas": "",
+      "emailEnvio": "",
+      "dataEnvio": "",
+      "grauOverride": ""
     },
     {
       "id": 5,
