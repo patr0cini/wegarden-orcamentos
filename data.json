@@ -341,7 +341,7 @@
       "mes": "Fevereiro",
       "requerente": "Alves Ribeiro",
       "responsavel": "",
-      "concurso": "",
+      "concurso": "Sim",
       "visita": "",
       "adjudicado": "",
       "dataArranque": "",
@@ -354,7 +354,8 @@
         }
       ],
       "emailEnvio": "andre.monteiro@alvesribeiro.pt",
-      "dataEnvio": "2026-02-26"
+      "dataEnvio": "2026-02-26",
+      "grauOverride": ""
     },
     {
       "id": 23,
