@@ -82,10 +82,16 @@
       "visita": "",
       "adjudicado": "",
       "dataArranque": "",
-      "notas": "liguei a 11/05 mas ainda não sabem nada",
+      "notas": "",
       "emailEnvio": "",
       "dataEnvio": "",
-      "grauOverride": ""
+      "grauOverride": "",
+      "notasHist": [
+        {
+          "texto": "liguei a 11/05 mas ainda não sabem nada",
+          "at": "2026-05-11T14:43:32.603Z"
+        }
+      ]
     },
     {
       "id": 7,
