@@ -345,7 +345,14 @@
       "visita": "",
       "adjudicado": "",
       "dataArranque": "",
-      "notas": ""
+      "notas": "",
+      "lembretes": [
+        {
+          "data": "2026-05-12",
+          "texto": "Rever processo com BP",
+          "done": false
+        }
+      ]
     },
     {
       "id": 23,
