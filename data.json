@@ -729,7 +729,9 @@
           "texto": "Enviado para luis.carvalho@grow-eng.com",
           "at": "2026-05-07T19:28:05.951Z"
         }
-      ]
+      ],
+      "emailEnvio": "luis.carvalho@grow-eng.com",
+      "dataEnvio": ""
     },
     {
       "id": 46,
