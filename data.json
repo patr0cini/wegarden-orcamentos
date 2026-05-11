@@ -352,7 +352,9 @@
           "texto": "Rever processo com BP",
           "done": false
         }
-      ]
+      ],
+      "emailEnvio": "andre.monteiro@alvesribeiro.pt",
+      "dataEnvio": "2026-02-26"
     },
     {
       "id": 23,
