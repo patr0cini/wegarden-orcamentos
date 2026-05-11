@@ -396,11 +396,14 @@
       "mes": "Fevereiro",
       "requerente": "MEEC",
       "responsavel": "",
-      "concurso": "",
+      "concurso": "Não",
       "visita": "",
       "adjudicado": "",
       "dataArranque": "",
-      "notas": ""
+      "notas": "liguei a 11/05 . ligar a Hugo bastos",
+      "emailEnvio": "",
+      "dataEnvio": "",
+      "grauOverride": ""
     },
     {
       "id": 28,
