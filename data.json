@@ -390,11 +390,14 @@
       "mes": "Fevereiro",
       "requerente": "AOC",
       "responsavel": "",
-      "concurso": "",
+      "concurso": "Sim",
       "visita": "",
       "adjudicado": "",
       "dataArranque": "",
-      "notas": ""
+      "notas": "",
+      "emailEnvio": "nelson.godinho@grupoaoc.com",
+      "dataEnvio": "2026-03-18",
+      "grauOverride": ""
     },
     {
       "id": 26,
