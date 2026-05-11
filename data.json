@@ -403,10 +403,16 @@
       "visita": "",
       "adjudicado": "",
       "dataArranque": "",
-      "notas": "liguei a 11/05 . ligar a Hugo bastos",
+      "notas": "",
       "emailEnvio": "",
       "dataEnvio": "",
-      "grauOverride": ""
+      "grauOverride": "",
+      "notasHist": [
+        {
+          "texto": "liguei a 11/05 . ligar a Hugo bastos",
+          "at": "2026-05-11T15:09:59.455Z"
+        }
+      ]
     },
     {
       "id": 28,
