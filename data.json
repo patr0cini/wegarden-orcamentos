@@ -1049,6 +1049,23 @@
       "dataEnvio": "2026-05-06",
       "grauOverride": "",
       "notas": ""
+    },
+    {
+      "id": 64,
+      "addedAt": "2026-05-11T22:40:27.018Z",
+      "nome": "ocWG26_086 Miguel Gama, Caxias Limpeza",
+      "valor": 3640,
+      "mes": "Maio",
+      "requerente": "Miguel Gama",
+      "responsavel": "BP",
+      "concurso": "Não",
+      "visita": "Sim",
+      "adjudicado": "",
+      "dataArranque": "",
+      "emailEnvio": "m.gama@pgarquitectos.pt",
+      "dataEnvio": "",
+      "grauOverride": "",
+      "notas": ""
     }
   ]
 }
