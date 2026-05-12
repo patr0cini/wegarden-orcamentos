@@ -995,7 +995,14 @@
       ],
       "emailEnvio": "Comercial@mlmoita.pt",
       "dataEnvio": "",
-      "grauOverride": ""
+      "grauOverride": "",
+      "lembretes": [
+        {
+          "data": "2026-05-12",
+          "texto": "ligar ml moita",
+          "done": false
+        }
+      ]
     },
     {
       "id": 60,
