@@ -66,7 +66,7 @@
       "mes": "Janeiro",
       "requerente": "Eco Ambiente",
       "responsavel": "JP",
-      "concurso": "Não",
+      "concurso": "N��o",
       "visita": "",
       "adjudicado": "Sim",
       "dataArranque": "",
@@ -802,6 +802,11 @@
           "data": "2026-05-08",
           "texto": "Ligar",
           "done": true
+        },
+        {
+          "data": "2026-05-14",
+          "texto": "Zé Liga a Francisco Braga",
+          "done": false
         }
       ]
     },
