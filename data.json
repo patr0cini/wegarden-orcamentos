@@ -373,13 +373,16 @@
       "nome": "ocWG26_028 NOOBA Lote 9 - Barreiro",
       "valor": 413498.74,
       "mes": "Fevereiro",
-      "requerente": "",
+      "requerente": "Somafuture",
       "responsavel": "",
       "concurso": "",
       "visita": "",
       "adjudicado": "",
       "dataArranque": "",
-      "notas": ""
+      "notas": "",
+      "emailEnvio": "",
+      "dataEnvio": "",
+      "grauOverride": ""
     },
     {
       "id": 24,
