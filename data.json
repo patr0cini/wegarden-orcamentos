@@ -982,7 +982,7 @@
       "mes": "Maio",
       "requerente": "MLMoita",
       "responsavel": "",
-      "concurso": "Não",
+      "concurso": "",
       "visita": "",
       "adjudicado": "",
       "dataArranque": "",
@@ -994,15 +994,7 @@
         }
       ],
       "emailEnvio": "Comercial@mlmoita.pt",
-      "dataEnvio": "",
-      "grauOverride": "",
-      "lembretes": [
-        {
-          "data": "2026-05-12",
-          "texto": "ligar ml moita",
-          "done": false
-        }
-      ]
+      "dataEnvio": ""
     },
     {
       "id": 60,
