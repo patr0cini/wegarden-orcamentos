@@ -57,7 +57,14 @@
       "notas": "",
       "emailEnvio": "",
       "dataEnvio": "",
-      "grauOverride": ""
+      "grauOverride": "",
+      "lembretes": [
+        {
+          "data": "2026-05-12",
+          "texto": "Ligar a Ana Cristina KTL",
+          "done": false
+        }
+      ]
     },
     {
       "id": 5,
@@ -119,7 +126,7 @@
       "responsavel": "JP",
       "concurso": "Não",
       "visita": "Sim",
-      "adjudicado": "Parcialmente",
+      "adjudicado": "",
       "dataArranque": "",
       "notas": "",
       "notasHist": [
@@ -127,10 +134,7 @@
           "texto": "Adjudicado metade",
           "at": "2026-05-07T09:01:25.012Z"
         }
-      ],
-      "emailEnvio": "",
-      "dataEnvio": "",
-      "grauOverride": ""
+      ]
     },
     {
       "id": 9,
