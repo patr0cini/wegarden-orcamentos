@@ -982,7 +982,7 @@
       "mes": "Maio",
       "requerente": "MLMoita",
       "responsavel": "",
-      "concurso": "",
+      "concurso": "Não",
       "visita": "",
       "adjudicado": "",
       "dataArranque": "",
@@ -994,7 +994,8 @@
         }
       ],
       "emailEnvio": "Comercial@mlmoita.pt",
-      "dataEnvio": ""
+      "dataEnvio": "",
+      "grauOverride": ""
     },
     {
       "id": 60,
