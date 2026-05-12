@@ -421,14 +421,7 @@
       "visita": "",
       "adjudicado": "",
       "dataArranque": "",
-      "notas": "",
-      "lembretes": [
-        {
-          "data": "2026-05-12",
-          "texto": "Enviar mail à Pragosa",
-          "done": false
-        }
-      ]
+      "notas": ""
     },
     {
       "id": 27,
