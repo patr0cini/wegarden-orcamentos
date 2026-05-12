@@ -685,7 +685,7 @@
         {
           "data": "2026-05-08",
           "texto": "Ligar",
-          "done": false
+          "done": true
         }
       ],
       "notasHist": [
