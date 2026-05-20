@@ -1091,6 +1091,23 @@
       "dataEnvio": "",
       "grauOverride": "",
       "notas": ""
+    },
+    {
+      "id": 65,
+      "addedAt": "2026-05-20T10:20:36.638Z",
+      "nome": "ocWG26_066 Edifício Duarte Galvão 42",
+      "valor": 96806.59,
+      "mes": "Maio",
+      "requerente": "MAP",
+      "responsavel": "MP",
+      "concurso": "Sim",
+      "visita": "",
+      "adjudicado": "",
+      "dataArranque": "",
+      "emailEnvio": "sr@mapgroup.pt",
+      "dataEnvio": "2026-05-20",
+      "grauOverride": "",
+      "notas": ""
     }
   ]
 }
