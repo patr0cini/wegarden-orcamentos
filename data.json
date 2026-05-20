@@ -1108,6 +1108,23 @@
       "dataEnvio": "2026-05-20",
       "grauOverride": "",
       "notas": ""
+    },
+    {
+      "id": 66,
+      "addedAt": "2026-05-20T10:34:34.764Z",
+      "nome": "ocWG26_068 Residência de Estudantes Barcarena",
+      "valor": 60648.1,
+      "mes": "Maio",
+      "requerente": "NOW XXI",
+      "responsavel": "",
+      "concurso": "Sim",
+      "visita": "",
+      "adjudicado": "",
+      "dataArranque": "",
+      "emailEnvio": "vitor.afonso@nowxxi.pt",
+      "dataEnvio": "2026-05-20",
+      "grauOverride": "",
+      "notas": ""
     }
   ]
 }
