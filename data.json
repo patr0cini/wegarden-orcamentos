@@ -662,9 +662,9 @@
       "mes": "Abril",
       "requerente": "ABA",
       "responsavel": "",
-      "concurso": "Sim",
+      "concurso": "Não",
       "visita": "",
-      "adjudicado": "",
+      "adjudicado": "Não",
       "dataArranque": "",
       "notas": "",
       "notasHist": [
@@ -682,7 +682,8 @@
         }
       ],
       "emailEnvio": "joao.rebelo@aba.com.pt",
-      "dataEnvio": ""
+      "dataEnvio": "",
+      "grauOverride": ""
     },
     {
       "id": 43,
