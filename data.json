@@ -1143,6 +1143,23 @@
       "dataEnvio": "2026-05-25",
       "grauOverride": "",
       "notas": ""
+    },
+    {
+      "id": 68,
+      "addedAt": "2026-05-25T18:27:33.414Z",
+      "nome": "ocWG26_082 Montepio PSP Lisboa",
+      "valor": 21011.58,
+      "mes": "",
+      "requerente": "FAS",
+      "responsavel": "",
+      "concurso": "",
+      "visita": "",
+      "adjudicado": "",
+      "dataArranque": "",
+      "emailEnvio": "orcamentacao4@grupofas.p",
+      "dataEnvio": "2026-05-25",
+      "grauOverride": "",
+      "notas": ""
     }
   ]
 }
