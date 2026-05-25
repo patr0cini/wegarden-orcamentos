@@ -1194,6 +1194,23 @@
       "dataEnvio": "2026-05-25",
       "grauOverride": "",
       "notas": ""
+    },
+    {
+      "id": 71,
+      "addedAt": "2026-05-25T18:36:18.198Z",
+      "nome": "ocWG26_093 Moradia nos Capuchos (Caparica) JARDINS DO PAÇO_preenchido_preenchido",
+      "valor": 159584.63,
+      "mes": "",
+      "requerente": "",
+      "responsavel": "MP",
+      "concurso": "Não",
+      "visita": "",
+      "adjudicado": "",
+      "dataArranque": "",
+      "emailEnvio": "",
+      "dataEnvio": "2026-05-25",
+      "grauOverride": "",
+      "notas": ""
     }
   ]
 }
