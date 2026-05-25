@@ -1126,6 +1126,23 @@
       "dataEnvio": "2026-05-20",
       "grauOverride": "",
       "notas": ""
+    },
+    {
+      "id": 67,
+      "addedAt": "2026-05-25T18:24:55.806Z",
+      "nome": "ocWG26_084 MORADIA ESTORIL BLUETAGUS",
+      "valor": 84109.57,
+      "mes": "",
+      "requerente": "FCM",
+      "responsavel": "MP",
+      "concurso": "Sim",
+      "visita": "",
+      "adjudicado": "",
+      "dataArranque": "",
+      "emailEnvio": "daniel.gomes@fcm.p",
+      "dataEnvio": "2026-05-25",
+      "grauOverride": "",
+      "notas": ""
     }
   ]
 }
