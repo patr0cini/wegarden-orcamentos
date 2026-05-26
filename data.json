@@ -1211,6 +1211,23 @@
       "dataEnvio": "2026-05-25",
       "grauOverride": "",
       "notas": ""
+    },
+    {
+      "id": 72,
+      "addedAt": "2026-05-26T17:22:11.666Z",
+      "nome": "ocWG26_101 Cobertura Verde - Trigo D'aldeia",
+      "valor": 90272,
+      "mes": "Maio",
+      "requerente": "Trigo D'Aldeia",
+      "responsavel": "BP",
+      "concurso": "Não",
+      "visita": "",
+      "adjudicado": "",
+      "dataArranque": "",
+      "emailEnvio": "",
+      "dataEnvio": "2026-05-25",
+      "grauOverride": "",
+      "notas": ""
     }
   ]
 }
