@@ -1228,6 +1228,23 @@
       "dataEnvio": "2026-05-25",
       "grauOverride": "",
       "notas": ""
+    },
+    {
+      "id": 73,
+      "addedAt": "2026-05-26T17:25:12.833Z",
+      "nome": "ocWG26_108 Remodelação da sede do PSD em Lisboa",
+      "valor": 4826.5,
+      "mes": "Maio",
+      "requerente": "FAS",
+      "responsavel": "JP",
+      "concurso": "Não",
+      "visita": "",
+      "adjudicado": "",
+      "dataArranque": "",
+      "emailEnvio": "",
+      "dataEnvio": "",
+      "grauOverride": "",
+      "notas": ""
     }
   ]
 }
