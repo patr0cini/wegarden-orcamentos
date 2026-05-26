@@ -1245,6 +1245,23 @@
       "dataEnvio": "",
       "grauOverride": "",
       "notas": ""
+    },
+    {
+      "id": 74,
+      "addedAt": "2026-05-26T17:26:25.375Z",
+      "nome": "ocWG26_104 Barreiras Acústicas - Brendan O'Brien",
+      "valor": 46482.4,
+      "mes": "Maio",
+      "requerente": "Brendan O'Brien",
+      "responsavel": "JP",
+      "concurso": "Não",
+      "visita": "Não",
+      "adjudicado": "",
+      "dataArranque": "",
+      "emailEnvio": "",
+      "dataEnvio": "2026-05-19",
+      "grauOverride": "",
+      "notas": ""
     }
   ]
 }
