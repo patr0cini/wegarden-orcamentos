@@ -614,7 +614,20 @@
       "visita": "",
       "adjudicado": "",
       "dataArranque": "",
-      "notas": ""
+      "notas": "",
+      "lembretes": [
+        {
+          "data": "2026-06-05",
+          "texto": "Ligar a Paulo Ribeiro",
+          "done": false
+        }
+      ],
+      "notasHist": [
+        {
+          "texto": "Liguei a 27/05. Ainda não têm nada definido. ligar no final da semana a seguir. 5 de junho",
+          "at": "2026-05-27T09:48:02.663Z"
+        }
+      ]
     },
     {
       "id": 39,
