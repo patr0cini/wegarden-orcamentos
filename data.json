@@ -487,7 +487,12 @@
         {
           "data": "2026-05-12",
           "texto": "Ligar a Hugo Bastos",
-          "done": true
+          "done": false
+        },
+        {
+          "data": "2026-07-28",
+          "texto": "Contacto pt. situação",
+          "done": false
         }
       ]
     },
