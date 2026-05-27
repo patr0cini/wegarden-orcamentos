@@ -69,7 +69,12 @@
         {
           "data": "2026-05-12",
           "texto": "Ligar a Ana Cristina KTL",
-          "done": true
+          "done": false
+        },
+        {
+          "data": "2026-05-29",
+          "texto": "Contacto MAP (Directora Compras)",
+          "done": false
         }
       ],
       "notasHist": [
