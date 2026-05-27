@@ -69,7 +69,13 @@
         {
           "data": "2026-05-12",
           "texto": "Ligar a Ana Cristina KTL",
-          "done": true
+          "done": false
+        }
+      ],
+      "notasHist": [
+        {
+          "texto": "27/05 - BP - KTL perdeu obra. Está aberta adjudicação à MAP",
+          "at": "2026-05-27T15:44:51.783Z"
         }
       ]
     },
