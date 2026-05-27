@@ -28,7 +28,14 @@
       "emailEnvio": "",
       "dataEnvio": "",
       "grauOverride": "",
-      "notasHist": []
+      "notasHist": [],
+      "lembretes": [
+        {
+          "data": "2026-05-28",
+          "texto": "Contato pt situação com Cliente",
+          "done": false
+        }
+      ]
     },
     {
       "id": 3,
