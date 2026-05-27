@@ -59,7 +59,7 @@
       "responsavel": "BP",
       "concurso": "Não",
       "visita": "",
-      "adjudicado": "",
+      "adjudicado": "Parcialmente",
       "dataArranque": "",
       "notas": "",
       "emailEnvio": "",
@@ -69,7 +69,7 @@
         {
           "data": "2026-05-12",
           "texto": "Ligar a Ana Cristina KTL",
-          "done": true
+          "done": false
         },
         {
           "data": "2026-05-29",
