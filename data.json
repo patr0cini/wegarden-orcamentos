@@ -196,7 +196,14 @@
       ],
       "emailEnvio": "",
       "dataEnvio": "",
-      "grauOverride": ""
+      "grauOverride": "",
+      "lembretes": [
+        {
+          "data": "2026-07-14",
+          "texto": "Contacto pt. situação",
+          "done": false
+        }
+      ]
     },
     {
       "id": 11,
