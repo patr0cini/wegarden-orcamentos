@@ -1320,6 +1320,23 @@
       "dataEnvio": "2026-05-19",
       "grauOverride": "",
       "notas": ""
+    },
+    {
+      "id": 75,
+      "addedAt": "2026-05-28T11:24:08.448Z",
+      "nome": "ocWG26_112 Marinha Living (antigo ocWG24_244)",
+      "valor": 248993.62,
+      "mes": "Maio",
+      "requerente": "VEYEL",
+      "responsavel": "MP",
+      "concurso": "",
+      "visita": "",
+      "adjudicado": "",
+      "dataArranque": "",
+      "emailEnvio": "joao.amaro@veyel.pt",
+      "dataEnvio": "2026-05-28",
+      "grauOverride": "",
+      "notas": "Foi enviado o documento com a actualização da proposta de 2024."
     }
   ]
 }
