@@ -1337,6 +1337,23 @@
       "dataEnvio": "2026-05-28",
       "grauOverride": "",
       "notas": "Foi enviado o documento com a actualização da proposta de 2024."
+    },
+    {
+      "id": 76,
+      "addedAt": "2026-05-29T09:19:36.000Z",
+      "nome": "ocWG26_096 LOTE 35 ALDEAMENTO TURÍSTICO MARINHA GUINCHO - Malveira da Serra",
+      "valor": 539249.1,
+      "mes": "Maio",
+      "requerente": "ENGCON",
+      "responsavel": "MP",
+      "concurso": "Sim",
+      "visita": "",
+      "adjudicado": "",
+      "dataArranque": "",
+      "emailEnvio": "rui.curveira@engcon.pt",
+      "dataEnvio": "2026-05-29",
+      "grauOverride": "",
+      "notas": ""
     }
   ]
 }
