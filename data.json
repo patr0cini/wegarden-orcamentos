@@ -1354,6 +1354,23 @@
       "dataEnvio": "2026-05-29",
       "grauOverride": "",
       "notas": ""
+    },
+    {
+      "id": 77,
+      "addedAt": "2026-05-29T09:37:38.925Z",
+      "nome": "ocWG26_102 Construcao Rotunda Carregado",
+      "valor": 11547.24,
+      "mes": "Maio",
+      "requerente": "pragosa",
+      "responsavel": "MP",
+      "concurso": "Sim",
+      "visita": "",
+      "adjudicado": "",
+      "dataArranque": "",
+      "emailEnvio": "compras@pragosa.pt",
+      "dataEnvio": "2026-05-29",
+      "grauOverride": "",
+      "notas": ""
     }
   ]
 }
