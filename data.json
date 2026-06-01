@@ -1045,7 +1045,7 @@
       "responsavel": "MP",
       "concurso": "Não",
       "visita": "",
-      "adjudicado": "",
+      "adjudicado": "Não",
       "dataArranque": "",
       "notas": "",
       "notasHist": [
@@ -1053,7 +1053,10 @@
           "texto": "Enviado para geral@plantome.pt",
           "at": "2026-06-01T10:43:33.590Z"
         }
-      ]
+      ],
+      "emailEnvio": "",
+      "dataEnvio": "",
+      "grauOverride": ""
     },
     {
       "id": 58,
