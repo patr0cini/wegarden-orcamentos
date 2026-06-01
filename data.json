@@ -1047,7 +1047,13 @@
       "visita": "",
       "adjudicado": "",
       "dataArranque": "",
-      "notas": "Enviado para geral@plantome.pt"
+      "notas": "",
+      "notasHist": [
+        {
+          "texto": "Enviado para geral@plantome.pt",
+          "at": "2026-06-01T10:43:33.590Z"
+        }
+      ]
     },
     {
       "id": 58,
