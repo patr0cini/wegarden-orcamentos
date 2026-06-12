@@ -1384,6 +1384,23 @@
       "dataEnvio": "2026-05-29",
       "grauOverride": "",
       "notas": ""
+    },
+    {
+      "id": 78,
+      "addedAt": "2026-06-12T13:41:45.944Z",
+      "nome": "ocWG26_109 HOTEL PALÁCIO DO SALITRE",
+      "valor": 381250.2,
+      "mes": "Junho",
+      "requerente": "MAP",
+      "responsavel": "MP",
+      "concurso": "Sim",
+      "visita": "",
+      "adjudicado": "",
+      "dataArranque": "Junho 2026",
+      "emailEnvio": "",
+      "dataEnvio": "2026-06-12",
+      "grauOverride": "",
+      "notas": ""
     }
   ]
 }
