@@ -1401,6 +1401,23 @@
       "dataEnvio": "2026-06-12",
       "grauOverride": "",
       "notas": ""
+    },
+    {
+      "id": 79,
+      "addedAt": "2026-06-12T14:19:36.413Z",
+      "nome": "ocWG26_ 114 Jardim Exterior Braço de Prata PACOSERVICES",
+      "valor": 10168,
+      "mes": "Junho",
+      "requerente": "PACOSERVICES",
+      "responsavel": "MP",
+      "concurso": "Não",
+      "visita": "Não",
+      "adjudicado": "",
+      "dataArranque": "",
+      "emailEnvio": "djanice@pacoservices.pt",
+      "dataEnvio": "2026-06-12",
+      "grauOverride": "",
+      "notas": ""
     }
   ]
 }
