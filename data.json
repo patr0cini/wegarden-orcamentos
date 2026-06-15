@@ -900,7 +900,7 @@
       "responsavel": "MP",
       "concurso": "Sim",
       "visita": "",
-      "adjudicado": "",
+      "adjudicado": "Não",
       "dataArranque": "",
       "notas": "",
       "notasHist": [
@@ -908,7 +908,10 @@
           "texto": "Enviado para nelson.godinho@grupoaoc.com e luis.carvalho@grow-eng.com",
           "at": "2026-05-07T08:33:33.007Z"
         }
-      ]
+      ],
+      "emailEnvio": "",
+      "dataEnvio": "",
+      "grauOverride": ""
     },
     {
       "id": 50,
