@@ -1438,6 +1438,23 @@
       "dataEnvio": "2026-06-17",
       "grauOverride": "",
       "notas": ""
+    },
+    {
+      "id": 81,
+      "addedAt": "2026-06-17T12:39:32.996Z",
+      "nome": "ocWG26_097 MORADIAS (Atiba-Cascais)",
+      "valor": 56187.16,
+      "mes": "Junho",
+      "requerente": "a santo",
+      "responsavel": "",
+      "concurso": "",
+      "visita": "",
+      "adjudicado": "",
+      "dataArranque": "",
+      "emailEnvio": "rui.marcal@asanto.pt",
+      "dataEnvio": "2026-06-17",
+      "grauOverride": "",
+      "notas": ""
     }
   ]
 }
