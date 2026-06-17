@@ -1421,6 +1421,23 @@
       "dataEnvio": "2026-06-12",
       "grauOverride": "",
       "notas": ""
+    },
+    {
+      "id": 80,
+      "addedAt": "2026-06-17T12:35:53.683Z",
+      "nome": "ocWG26_107 OPERAÇÃO DE LOTEAMENTO NORTE DE CAXIAS OEIRAS",
+      "valor": 2394520.35,
+      "mes": "Junho",
+      "requerente": "Teixeira Duarte",
+      "responsavel": "MP",
+      "concurso": "Sim",
+      "visita": "",
+      "adjudicado": "",
+      "dataArranque": "",
+      "emailEnvio": "lrv@teixeiraduarte.com",
+      "dataEnvio": "2026-06-17",
+      "grauOverride": "",
+      "notas": ""
     }
   ]
 }
