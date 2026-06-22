@@ -642,14 +642,14 @@
     },
     {
       "id": 38,
-      "nome": "ocWG26_047 SkateHouse Ericeira Padel",
+      "nome": "ocWG26_047",
       "valor": 135802.55,
       "mes": "Abril",
       "requerente": "Skatehouse",
       "responsavel": "JP",
       "concurso": "",
       "visita": "",
-      "adjudicado": "",
+      "adjudicado": "Rascunho",
       "dataArranque": "",
       "notas": "",
       "lembretes": [
@@ -663,8 +663,14 @@
         {
           "texto": "Liguei a 27/05. Ainda não têm nada definido. ligar no final da semana a seguir. 5 de junho",
           "at": "2026-05-27T09:48:02.663Z"
+        },
+        {
+          "at": "2026-06-22T15:39:17.232Z",
+          "texto": "Tenho ligado mas sem sucesso"
         }
-      ]
+      ],
+      "dataEnvio": "",
+      "grauOverride": ""
     },
     {
       "id": 39,
