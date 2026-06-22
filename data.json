@@ -582,16 +582,18 @@
     },
     {
       "id": 34,
-      "nome": "ocWG26_043 Casa Peixoto",
+      "nome": "ocWG26_043",
       "valor": 181275.07,
       "mes": "Março",
       "requerente": "Plural",
       "responsavel": "JP",
       "concurso": "Não",
       "visita": "Sim",
-      "adjudicado": "",
+      "adjudicado": "Rascunho",
       "dataArranque": "",
-      "notas": ""
+      "notas": "",
+      "dataEnvio": "",
+      "grauOverride": ""
     },
     {
       "id": 35,
