@@ -1484,6 +1484,23 @@
       "dataEnvio": "2026-06-24",
       "grauOverride": "",
       "notas": ""
+    },
+    {
+      "id": 83,
+      "addedAt": "2026-06-24T16:05:50.996Z",
+      "nome": "ocWG26_075 Belas Clube de Campo Lote 133 Cobertura ajardinada",
+      "valor": 307487.1,
+      "mes": "Junho",
+      "requerente": "DSTSGPS",
+      "responsavel": "",
+      "concurso": "",
+      "visita": "Não",
+      "adjudicado": "",
+      "dataArranque": "",
+      "emailEnvio": "Paulo.Ramos@dstsgps.com",
+      "dataEnvio": "2026-06-24",
+      "grauOverride": "",
+      "notas": ""
     }
   ]
 }
