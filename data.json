@@ -1501,6 +1501,23 @@
       "dataEnvio": "2026-06-24",
       "grauOverride": "",
       "notas": ""
+    },
+    {
+      "id": 84,
+      "addedAt": "2026-06-25T12:39:21.465Z",
+      "nome": "ocWG26_087 Estabelecimento Hoteleiro - Reconversão da Antiga Fábrica de Conversas da Trafaria",
+      "valor": 183820.78,
+      "mes": "Junho",
+      "requerente": "MAP e Construtora San José",
+      "responsavel": "MP",
+      "concurso": "",
+      "visita": "",
+      "adjudicado": "",
+      "dataArranque": "",
+      "emailEnvio": "ns@mapgroup.pt e ana.henriques@constructorasanjose.com",
+      "dataEnvio": "2026-06-22",
+      "grauOverride": "",
+      "notas": ""
     }
   ]
 }
