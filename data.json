@@ -1535,6 +1535,23 @@
       "dataEnvio": "2026-06-26",
       "grauOverride": "",
       "notas": ""
+    },
+    {
+      "id": 86,
+      "addedAt": "2026-06-26T12:32:35.901Z",
+      "nome": "ocWG26_119 CM BARREIRO - RUA DA BEIRAS - REQUALIFICAÇÃO URBANA DO LOGRADOURO_preenchido",
+      "valor": 81253.36,
+      "mes": "Junho",
+      "requerente": "cordivias",
+      "responsavel": "MP",
+      "concurso": "",
+      "visita": "",
+      "adjudicado": "",
+      "dataArranque": "",
+      "emailEnvio": "jlavrador@cordivias.com",
+      "dataEnvio": "2026-06-26",
+      "grauOverride": "",
+      "notas": ""
     }
   ]
 }
