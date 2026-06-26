@@ -1518,6 +1518,23 @@
       "dataEnvio": "2026-06-22",
       "grauOverride": "",
       "notas": ""
+    },
+    {
+      "id": 85,
+      "addedAt": "2026-06-26T11:59:55.282Z",
+      "nome": "ocWG26_115 Selfstorage - Odivelas",
+      "valor": 5602,
+      "mes": "Junho",
+      "requerente": "plaintec",
+      "responsavel": "MP",
+      "concurso": "",
+      "visita": "",
+      "adjudicado": "",
+      "dataArranque": "",
+      "emailEnvio": "p.morais@plaintec.com",
+      "dataEnvio": "2026-06-26",
+      "grauOverride": "",
+      "notas": ""
     }
   ]
 }
